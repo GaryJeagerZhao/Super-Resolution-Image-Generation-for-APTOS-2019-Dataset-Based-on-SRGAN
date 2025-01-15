@@ -51,4 +51,7 @@ Prepare the necessary software and hardware environment:
   - Training process scripts.
   - Sample outputs from the model.
 
+## Output Visualization
+- The original images and the generated high-resolution images are saved in the **`images`** folder.
+- When viewing a pair of images side by side, the difference in edge clarity becomes evident. The generated high-resolution image displays sharp, clear edges, while the original image appears blurry.
 

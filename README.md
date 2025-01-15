@@ -40,8 +40,8 @@ This project utilizes a Super-Resolution Generative Adversarial Network (SRGAN) 
 
 ### 7. Model Evaluation
 - Evaluate the performance of the trained SRGAN model using the following metrics:
-  - **PSNR (Peak Signal-to-Noise Ratio):** Measures image quality.
-  - **SSIM (Structural Similarity Index):** Assesses structural similarity between images.
+  - **PSNR (Peak Signal-to-Noise Ratio)**
+  - **Precision, Recall, F-1 Score** 
 
 ## File Details
 - All required code is contained in the file **`APTOS_SR.ipynb`**.
@@ -51,6 +51,6 @@ This project utilizes a Super-Resolution Generative Adversarial Network (SRGAN) 
   - Sample outputs from the model.
 
 ## Output Visualization
-- The original images and the generated high-resolution images are saved in the **`images`** folder.
+- The sample original images and the generated high-resolution images are saved in the **`images`** folder.
 - When viewing a pair of images side by side, the difference in edge clarity becomes evident. The generated high-resolution image displays sharp, clear edges, while the original image appears blurry.
 

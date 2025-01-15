@@ -6,9 +6,8 @@ This project utilizes a Super-Resolution Generative Adversarial Network (SRGAN) 
 ## Key Steps
 
 ### 1. Environment Setup
-Prepare the necessary software and hardware environment:
-- Ensure compatibility with GPU acceleration for optimal performance.
-- NVIDIA RTX 4090 GPU is recommended and used in this setup.
+- Prepare the necessary software and hardware environment.
+- The NVIDIA RTX 4090 GPU is used here.
 
 ### 2. Dataset Preparation
 - Process the APTOS 2019 dataset:
